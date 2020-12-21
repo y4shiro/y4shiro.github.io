@@ -10,9 +10,9 @@ AWS も使用経験あります。
 
 # Skills  
 - OS (Windows, Mac, CentOS, Ubuntu)  
-- Language (JavaScript, Ruby, PHP)  
-- Engine, Frameworks (Node.js, Express, Ruby on Rails, Vue.js, React.jsなど)  
-- Tool, MiddleWare(Git, GitHub, CircleCI, PostgreSQL, MySQLなど)  
+- Language (JavaScript, Ruby, PHP, C#)  
+- Engine, Frameworks (Node.js, Express, Ruby on Rails, Vue.js, React.js, Unityなど)  
+- Tool, MiddleWare(Git, GitHub, CircleCI, PostgreSQL, MySQL, Dockerなど)  
 - 資格、免許(基本情報技術者試験、普通自動車免許)  
 
 # Works
