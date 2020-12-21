@@ -6,7 +6,6 @@ AWS も使用経験あります。
   
 ## Prifile  
 - 名前: y4shiro  
-- 所在地: 沖縄県  
 - 得意領域: Web サービス開発  
 
 # Skills  
@@ -17,10 +16,10 @@ AWS も使用経験あります。
 - 資格、免許(基本情報技術者試験、普通自動車免許)  
 
 # Works
-- [GitHub]()  
-- [Qiita]()  
-- [はてなブログ]()  
+- [GitHub](https://github.com/y4shiro/)  
+- [Qiita](https://qiita.com/y4shiro)  
+- [はてなブログ](https://ram.hatenablog.jp/)  
 
 # Contact
 - [Mail](mailto:y4shironao@gmail.com)  
-- [Twitter:ram1009]()  
+- [Twitter:ram1009](https://twitter.com/ram1009)  
