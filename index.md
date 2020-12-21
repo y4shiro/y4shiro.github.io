@@ -1,6 +1,7 @@
 # About  
-簡単な自己紹介やアピール。  
-どんな事が出来る、したいのか。  
+Web サービス開発やったりしています。  
+Vue.js の他にも React.js 触ったりしています。  
+バックエンドは Node.js/Express/Ruby on Rails  
   
 ## Prifile  
 - 名前: y4shiro  
